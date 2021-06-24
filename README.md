@@ -46,6 +46,6 @@ P5) "My long term life mission is to contribute to assuring social and economic 
 
 
 ## Useful people on the internet 
-[Reddit Grad School](https://www.reddit.com/r/GradSchool/)
-[Reddit GRE](https://www.reddit.com/r/GRE/)
-And any subreddit of the school you want to attend
+- [Reddit Grad School](https://www.reddit.com/r/GradSchool/)
+- [Reddit GRE](https://www.reddit.com/r/GRE/)
+- And any subreddit of the school you want to attend
