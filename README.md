@@ -1,9 +1,8 @@
 # Fulbright
-Documents and guidelines from my Fulbright application
 
+I made this repo to share documents, resources and reccommendations about my Fulbright application.
 
-
-## Fulbright Statement of Purpose 
+## My Fulbright Statement of Purpose Essay
 This essay was a more personal narration of how I became interested in my field (unexpectedly) and how I quickly made a lot of achievements in the use of data science to aid vulnerable populations (P1, P2 & P3). I think in P4 I further discussed the topic of my research (GIS), and in P5 the potential uses cases for Argentina in this field: 
 
 P1) "Growing up in the slums, where going to university was not a rule, I did not have expectations about college — yet I..."
@@ -18,7 +17,7 @@ P5) "There has never been a more critical time for governments and organizations
 
 
 
-## Fulbright Study Objectives 
+## My Fulbright Study Objectives Essay 
 This essay should be about the future, what's your research plan and how you will apply your learnings back in Argentina. 
 My Study Objectives essay was chronollogically structured, showing in (P1 & P2) how I gained some experience in my area of research, in what direction I'm planning to do research (P3) and how it can be applied in my homecountry (P4 & P5) in the future: 
 
@@ -34,7 +33,7 @@ P5) "My long term life mission is to contribute to assuring social and economic 
 
 
 
-## Statement of Purpose
+## University Statement of Purpose 
 - [The five paragraph SOP (video)](https://www.youtube.com/watch?v=Yr1OXIS8cjY)
 1. Introduce who you are 
 2. Detail about your academic and technical interest (or work experience) 
@@ -46,3 +45,7 @@ P5) "My long term life mission is to contribute to assuring social and economic 
 - [Reading of very personal Harvard SOP, Masters in Education (video)](https://www.youtube.com/watch?v=hFc-MawCIDI)
 
 
+## Useful people on the internet 
+(Reddit Grad School)[https://www.reddit.com/r/GradSchool/]
+(Reddit GRE)[https://www.reddit.com/r/GRE/]
+And any subreddit of the school you want to attend
