@@ -1,6 +1,8 @@
 # Fulbright
 
-I made this repo to share documents, resources and reccommendations about my Fulbright application.
+I made this repo to share documents, resources and reccommendations about my Fulbright application to study a master's/Phd in the US. The Fulbright application is similar to the real college application - you have to provide your resume, your academic transcript, english exams and two essays. A typical Fulbright scholar has done research in its field of study, which is either STEM, LLM or Education, has impressive work experience or perfect academic history. Usually when you apply, you already have finished your degree and you have your resumee built already - the challenge is writing the essays. 
+
+
 
 ## My Fulbright Statement of Purpose Essay
 This essay was a more personal narration of how I became interested in my field (unexpectedly) and how I quickly made a lot of achievements in the use of data science to aid vulnerable populations (P1, P2 & P3). I think in P4 I further discussed the topic of my research (GIS), and in P5 the potential uses cases for Argentina in this field: 
